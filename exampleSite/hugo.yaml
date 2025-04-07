@@ -129,6 +129,7 @@ params:
         reddit: true
         whatsapp: true
         email: true
+        instagram: true
         # tumblr: true
         # pocket: true
         # diaspora: true
